@@ -1,7 +1,17 @@
+---
 <div id="title" align=center>
 
+**【爱毕设】支持系统部署、调试、讲解一条龙服务！！！**
+
+</div>
+
+
+---
+
+<div id="title" align=center>
 
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
 
@@ -13,7 +23,7 @@
 
 点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-联系 **【QQ 979748385 】** 回复项目编号即可获取！！！
+完整源码联系 **人工客服24小时**全天在线 **【QQ 979748385 】** 回复项目编号即可获取！！！
 
 ---
 
@@ -23,9 +33,9 @@
 
 💥💥💥点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-![6449464bad613fd29c0dff81b5801c1](https://github.com/hjsdjko/hjsdjko/assets/120558513/09704eae-2d88-4f15-9e77-d82df3acd18f)
+![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
-> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
+> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
 
 1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
